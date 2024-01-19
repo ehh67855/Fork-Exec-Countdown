@@ -1,0 +1,10 @@
+Hammam-Evan-lab11/:
+total 40
+-rw-r--r--. 1 myid   702 Apr 16 13:15 countdown.c
+-rwxr-xr-x. 1 myid 11200 Apr 18 14:27 countdown.out
+-rw-r--r--. 1 myid  1075 Apr 18 14:17 lab11.c
+-rwxr-xr-x. 1 myid 10392 Apr 18 14:27 lab11.out
+-rw-r--r--. 1 myid   160 Apr 16 13:14 Makefile
+-rw-r--r--. 1 myid   274 Apr 18 14:24 README
+-rw-r--r--. 1 myid     0 Apr 18 14:30 rec16028
+/home/myid/ehh67855/cs1730/labs/Hammam-Evan-lab11/:/home/myid/csci-1730
